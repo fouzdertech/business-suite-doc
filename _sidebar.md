@@ -37,3 +37,4 @@
   - [Getting Files from Customers](document-management/getting-files-from-customers.md)
 
 - [Task Management](task-management.md)
+- [Calendar](calendar.md)
