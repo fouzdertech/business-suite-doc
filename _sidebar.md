@@ -16,6 +16,17 @@
   - [Income Management](financial-management/income-management.md)
   - [Expense Manageement](financial-management/expense-management.md)
 
-- **CRM**
+- **Customer Support**
 
-  - [Customer Management](crm/customer-management.md)
+  - [Ticket Management](customer-support/ticket-management.md)
+  - [Predefined Replies](customer-support/predefined-replies.md)
+  - [Knowledge Base](customer-support/knowledge-base.md)
+  - [Knowledge Base Articles](customer-support/knowledge-base-articles.md)
+
+- **Document Management**
+  
+  - [Documents](document-management/documents.md)
+  - [Upload Documents](document-management/upload-documents.md)
+  - [Getting Files from Customers](document-management/getting-files-from-customers.md)
+
+- [Task Management](task-management.md)
