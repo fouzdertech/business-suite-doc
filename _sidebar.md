@@ -21,4 +21,6 @@
 
 - **Customer Relationship Management (CRM)**
 
-  - [Customer Management](financial-management/customer-management.md)
+  - [Customer Management](customer-relationship-management/customer-management.md)
+  - [Leads Management](customer-relationship-management/leads-management.md)
+  - [Companies](customer-relationship-management/companies.md)
