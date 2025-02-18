@@ -14,3 +14,8 @@
   
   - [Managing Bank Accounts](financial-management/bank-accounts.md)
   - [Income Management](financial-management/income-management.md)
+  - [Expense Manageement](financial-management/expense.md)
+
+- **CRM**
+
+  -[Customer Management](crm/customer-management.md)
