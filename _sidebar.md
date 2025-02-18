@@ -39,6 +39,22 @@
   - [Order Management](sales/Order-Management.md)
   - [Point of Sale (POS)](sales/Point-of-Sale.md)
 
+  - **Purchasing**
+
+  - [Supplier Management](Purchasing/Supplier-Management.md)
+  - [Purchase Orders](Purchasing/Purchase-Orders.md)
+
+  - **Products and Services**
+
+  - [Product Management](Product/Product-Management.md)
+  - [Service Management](Purchasing/Service-Management.md)
+
+  - **Project Management**
+
+  - [Task Management](Task-Management/Task-Management.md)
+  - [Milestone Tracking](Task-Management/Milestone-Tracking.md)
+  - [Time Tracking](Task-Management/Time-Tracking.md)
+
 - **Customer Support**
 
   - [Ticket Management](customer-support/ticket-management.md)
