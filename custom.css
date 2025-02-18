@@ -58,6 +58,10 @@ body {
     font-weight: 500;
 }
 
+.folder{
+    cursor: default;
+}
+
 /* === Content Styles === */
 .content {
     padding-top: 20px;

@@ -69,3 +69,27 @@
   - [Getting Files from Customers](document-management/getting-files-from-customers.md)
 
 - [Task Management](task-management.md)
+- [Calendar](calendar.md)
+
+- **Human Resources (HR) Management**
+
+  - [Employee Management](hrm/employee-management.md)
+  - [Payroll Processing](hrm/payroll-processing.md)
+  - [Attendance Tracking](hrm/attendance-tracking.md)
+
+- **Reports**
+  - [Financial Reports](reports/financial-reports.md)
+  - [Sales Reports](reports/sales-reports.md)
+  - [Export](reports/export.md)
+  
+- **System Administration**
+  - [General Settings](settings/general-settings.md)
+  - [Users and Roles](settings/users-and-roles.md)
+  - [Email Settings](settings/email-settings.md)
+  - [Payment Gateways](settings/payment-gateways.md)
+  - [SMS Configuration](settings/sms-settings.md)
+  - [Tax Settings](settings/tax-settings.md)
+  - [Localization Settings](settings/localization.md)
+
+- **Update Procedures**
+  - [Version Upgrade Guide](upgrade/version-upgrade.md)

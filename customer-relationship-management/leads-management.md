@@ -1,6 +1,4 @@
-#
-
-Leads Management Guide
+# Leads Management Guide
 
 ## Understanding Leads
 
