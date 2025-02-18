@@ -1,6 +1,4 @@
-#
-
-Customer Management
+# Customer Management
 
 ## Overview
 

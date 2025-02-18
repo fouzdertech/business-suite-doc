@@ -24,3 +24,18 @@
   - [Customer Management](customer-relationship-management/customer-management.md)
   - [Leads Management](customer-relationship-management/leads-management.md)
   - [Companies](customer-relationship-management/companies.md)
+
+- **Customer Support**
+
+  - [Ticket Management](customer-support/ticket-management.md)
+  - [Predefined Replies](customer-support/predefined-replies.md)
+  - [Knowledge Base](customer-support/knowledge-base.md)
+  - [Knowledge Base Articles](customer-support/knowledge-base-articles.md)
+
+- **Document Management**
+
+  - [Documents](document-management/documents.md)
+  - [Upload Documents](document-management/upload-documents.md)
+  - [Getting Files from Customers](document-management/getting-files-from-customers.md)
+
+- [Task Management](task-management.md)
