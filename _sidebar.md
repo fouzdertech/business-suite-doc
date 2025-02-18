@@ -24,6 +24,20 @@
   - [Customer Management](customer-relationship-management/customer-management.md)
   - [Leads Management](customer-relationship-management/leads-management.md)
   - [Companies](customer-relationship-management/companies.md)
+  - [Groups](customer-relationship-management/groups.md)
+  - [Files](customer-relationship-management/files.md)
+  - [Custom Fields](customer-relationship-management/custom-fields.md)
+  - [Interaction Tracking](customer-relationship-management/interaction-tracking.md)
+
+  - **Sales**
+
+  - [Creating an Invoice](sales/creating-an-invoice.md)
+  - [Managing Invoices](sales/managing-invoices.md)
+  - [Recurring Invoices](sales/recurring-invoices.md)
+  - [Receiving Payments](sales/Receiving-Payments.md)
+  - [Quote Management](sales/Quote-Management.md)
+  - [Order Management](sales/Order-Management.md)
+  - [Point of Sale (POS)](sales/Point-of-Sale.md)
 
 - **Customer Support**
 
