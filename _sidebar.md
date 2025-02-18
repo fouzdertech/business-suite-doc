@@ -21,7 +21,9 @@
 
 - **Customer Relationship Management (CRM)**
 
-  - [Customer Management](financial-management/customer-management.md)
+  - [Customer Management](customer-relationship-management/customer-management.md)
+  - [Leads Management](customer-relationship-management/leads-management.md)
+  - [Companies](customer-relationship-management/companies.md)
 
 - **Customer Support**
 
@@ -31,10 +33,15 @@
   - [Knowledge Base Articles](customer-support/knowledge-base-articles.md)
 
 - **Document Management**
-  
+
   - [Documents](document-management/documents.md)
   - [Upload Documents](document-management/upload-documents.md)
   - [Getting Files from Customers](document-management/getting-files-from-customers.md)
 
 - [Task Management](task-management.md)
 - [Calendar](calendar.md)
+
+- **Human Resources (HR) Management**
+  - [Employee Management](hrm/employee-management.md)
+  - [Payroll Processing](hrm/payroll-processing.md)
+  - [Attendance Tracking](hrm/attendance-tracking.md)
