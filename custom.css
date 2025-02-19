@@ -131,6 +131,7 @@ body {
 .markdown-section pre {
     border-radius: 6px;
     margin: 1.5rem 0;
+    padding: 0 !important;
 }
 
 .markdown-section pre>code {

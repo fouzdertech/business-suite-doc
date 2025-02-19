@@ -77,3 +77,20 @@
 
 - **Update Procedures**
   - [Version Upgrade Guide](upgrade/version-upgrade.md)
+  - [Data Backup Best Practices](upgrade/data-backup.md)
+  - [Troubleshooting Upgrades](upgrade/troubleshooting-upgrades.md)
+  - [Database Schema Updates](upgrade/database-schema.md)
+  - [Restoring a Backup](upgrade/restore-backup.md)
+
+- **Troubleshooting**
+  - [Common Errors and Solutions](troubleshooting/common-errors.md)
+  - [Debug Mode](troubleshooting/debugging.md)
+  - [Data Recovery](troubleshooting/data-recovery.md)
+  - [File Upload](troubleshooting/file-upload.md)
+  - [PDF Generation](troubleshooting/pdf-generation.md)
+  - [Contacting Customer Support](troubleshooting/customer-support.md)
+
+- **Customization**
+  - [Built-in Customization Options](customization/built-in-options.md)
+  - [Managing Features](customization/managing-features.md)
+  - [Editing Layouts](customization/editing-layouts.md)
