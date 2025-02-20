@@ -2,7 +2,7 @@
 
 ## Overview
 
-One of the important features of the admin area is controlling what admins can access and manage. For example, you may want to give a salesperson different access than support operators. CloudOnex Business Suite allows you to manage users and their access permissions through a robust user and role management system. You can add unlimited users and assign specific roles to control what features and data they can access within the system.
+One of the important features of the admin area is controlling what admins can access and manage. For example, you may want to give a salesperson different access than support operators. FouzderIT Business Suite allows you to manage users and their access permissions through a robust user and role management system. You can add unlimited users and assign specific roles to control what features and data they can access within the system.
 
 ## Managing Users
 

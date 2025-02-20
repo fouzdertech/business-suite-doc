@@ -1,12 +1,12 @@
 # Time Tracking
 
-Time tracking in CloudOnex Business Suite helps you monitor hours spent on projects, tasks, and activities. This guide explains how to effectively use the time tracking features to maintain accurate records and improve productivity.
+Time tracking in FouzderIT Business Suite helps you monitor hours spent on projects, tasks, and activities. This guide explains how to effectively use the time tracking features to maintain accurate records and improve productivity.
 
 ## Getting Started with Time Tracking
 
 ### Accessing Time Tracking
 
-1.  Login to CloudOnex Business Suite
+1.  Login to FouzderIT Business Suite
 2.  Navigate to the **Project Management** section
 3.  Select **Time Tracking**
 

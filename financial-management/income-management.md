@@ -1,8 +1,8 @@
-# Income Management in CloudOnex Business Suite
+# Income Management in FouzderIT Business Suite
 
 ### Overview
 
-CloudOnex Business Suite provides robust tools for tracking and managing your business income. This guide will help you understand how to record, categorize, and monitor your income effectively.
+FouzderIT Business Suite provides robust tools for tracking and managing your business income. This guide will help you understand how to record, categorize, and monitor your income effectively.
 
 ## Recording Income
 

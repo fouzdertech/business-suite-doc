@@ -22,7 +22,7 @@ Before diving into daily operations, take a few minutes to configure key setting
 
 # Adding Users and Assigning Permissions
 
-Set up your team to ensure secure access and role-specific permissions across CloudOnex.
+Set up your team to ensure secure access and role-specific permissions across FouzderIT.
 
 1. **Add New Users**
    

@@ -2,7 +2,7 @@
 
 ## Overview
 
-CloudOnex Business Suite provides comprehensive tools for tracking and managing your business expenses. This guide will help you understand how to record, categorize, and monitor your business expenses effectively.
+FouzderIT Business Suite provides comprehensive tools for tracking and managing your business expenses. This guide will help you understand how to record, categorize, and monitor your business expenses effectively.
 
 ## Recording Expenses
 

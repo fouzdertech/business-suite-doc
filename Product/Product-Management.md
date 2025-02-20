@@ -1,6 +1,6 @@
 # Product Management
 
-CloudOnex Business Suite provides comprehensive tools for managing your product catalog. This guide explains how to effectively manage products, track inventory, and maintain product information.
+FouzderIT Business Suite provides comprehensive tools for managing your product catalog. This guide explains how to effectively manage products, track inventory, and maintain product information.
 
 ## Adding Products
 

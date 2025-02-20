@@ -2,7 +2,7 @@
 
 ## Overview
 
-Predefined Replies in CloudOnex Business Suite allows you to create and manage standardized responses for common customer inquiries. This feature helps maintain consistency in communication while significantly reducing response time for support staff.
+Predefined Replies in FouzderIT Business Suite allows you to create and manage standardized responses for common customer inquiries. This feature helps maintain consistency in communication while significantly reducing response time for support staff.
 
 ## Creating Predefined Replies
 

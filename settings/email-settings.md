@@ -2,11 +2,11 @@
 
 ## Overview
 
-Email configuration is a crucial part of CloudOnex Business Suite, enabling the system to send invoices, notifications, password resets, and other important communications. This guide covers all aspects of email configuration and troubleshooting.
+Email configuration is a crucial part of FouzderIT Business Suite, enabling the system to send invoices, notifications, password resets, and other important communications. This guide covers all aspects of email configuration and troubleshooting.
 
 ## Email Drivers
 
-CloudOnex Business Suite supports multiple email sending methods to accommodate different hosting environments and requirements.
+FouzderIT Business Suite supports multiple email sending methods to accommodate different hosting environments and requirements.
 
 ### 1\. PHP Mail
 
@@ -108,7 +108,7 @@ To enable detailed error reporting:
 
 ## Email Templates
 
-CloudOnex Business Suite includes customizable email templates for:
+FouzderIT Business Suite includes customizable email templates for:
 
 - Invoice notifications
 - Quote notifications

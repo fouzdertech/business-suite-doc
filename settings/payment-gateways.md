@@ -2,7 +2,7 @@
 
 ## Overview
 
-CloudOnex Business Suite supports multiple payment gateways to process customer payments. This guide covers the configuration of built-in payment gateways and available payment gateway plugins.
+FouzderIT Business Suite supports multiple payment gateways to process customer payments. This guide covers the configuration of built-in payment gateways and available payment gateway plugins.
 
 ## Built-in Payment Gateways
 
@@ -63,7 +63,7 @@ For manual bank transfer payments:
 
 ## Available Payment Gateway Plugins
 
-CloudOnex Business Suite offers additional payment gateway integrations through plugins:
+FouzderIT Business Suite offers additional payment gateway integrations through plugins:
 
 ### Regional Payment Gateways
 
@@ -87,7 +87,7 @@ CloudOnex Business Suite offers additional payment gateway integrations through 
 
 ## Installing Payment Gateway Plugins
 
-1.  Purchase the desired plugin from CloudOnex Marketplace
+1.  Purchase the desired plugin from FouzderIT Marketplace
 2.  Download the plugin ZIP file
 3.  Go to Plugins in your Business Suite
 4.  Click "Upload Plugin"
@@ -185,4 +185,4 @@ For multi-currency support:
 
 -   [PayPal Integration Guide](https://developer.paypal.com/docs/)
 -   [Stripe Documentation](https://stripe.com/docs)
--   [CloudOnex Plugin Marketplace](https://www.cloudonex.com/marketplace)
+-   [FouzderIT Plugin Marketplace](https://www.FouzderIT.com/marketplace)

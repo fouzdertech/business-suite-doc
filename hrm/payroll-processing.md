@@ -1,4 +1,4 @@
-# Payroll Processing in CloudOnex Business Suite
+# Payroll Processing in FouzderIT Business Suite
 
 The Payroll Processing module helps you manage employee compensation efficiently and accurately while maintaining compliance with tax and regulatory requirements.
 

@@ -1,6 +1,6 @@
 # Managing Invoices
 
-CloudOnex Business Suite provides comprehensive tools for creating, managing, and tracking invoices. This guide will help you effectively manage your invoicing process.
+FouzderIT Business Suite provides comprehensive tools for creating, managing, and tracking invoices. This guide will help you effectively manage your invoicing process.
 
 ## Creating Invoices
 

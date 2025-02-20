@@ -1,6 +1,6 @@
-# Calendar Management in CloudOnex Business Suite
+# Calendar Management in FouzderIT Business Suite
 
-The Calendar feature in CloudOnex Business Suite helps you manage appointments, deadlines, and business events effectively. It integrates with other modules to provide a comprehensive view of your business activities.
+The Calendar feature in FouzderIT Business Suite helps you manage appointments, deadlines, and business events effectively. It integrates with other modules to provide a comprehensive view of your business activities.
 
 ## Accessing the Calendar
 

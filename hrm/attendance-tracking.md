@@ -1,4 +1,4 @@
-# Attendance Tracking in CloudOnex Business Suite
+# Attendance Tracking in FouzderIT Business Suite
 
 The Attendance Tracking module helps organizations monitor employee attendance records.
 

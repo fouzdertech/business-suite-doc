@@ -1,6 +1,6 @@
 # Milestone Tracking
 
-Milestone tracking helps you monitor significant project checkpoints and achievements. This guide explains how to effectively use milestone tracking features in CloudOnex Business Suite.
+Milestone tracking helps you monitor significant project checkpoints and achievements. This guide explains how to effectively use milestone tracking features in FouzderIT Business Suite.
 
 ## Understanding Milestones
 

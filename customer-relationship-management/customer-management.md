@@ -2,7 +2,7 @@
 
 ## Overview
 
-CloudOnex Business Suite's Customer Management module helps you organize, track, and manage all your customer relationships effectively. This comprehensive system allows you to maintain detailed customer records, track interactions, and manage customer-related activities from a centralized platform.
+FouzderIT Business Suite's Customer Management module helps you organize, track, and manage all your customer relationships effectively. This comprehensive system allows you to maintain detailed customer records, track interactions, and manage customer-related activities from a centralized platform.
 
 ## Creating Customer Accounts
 

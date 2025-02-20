@@ -2,7 +2,7 @@
 
 ## Overview
 
-CloudOnex Business Suite's Bills Management feature helps you track, organize, and pay your business expenses efficiently. This comprehensive system ensures you never miss payments and maintains clear records of all your business obligations.
+FouzderIT Business Suite's Bills Management feature helps you track, organize, and pay your business expenses efficiently. This comprehensive system ensures you never miss payments and maintains clear records of all your business obligations.
 
 ## Creating Bills
 

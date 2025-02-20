@@ -1,6 +1,6 @@
 # Receiving Payments
 
-CloudOnex Business Suite provides multiple ways to receive and record payments from customers. This guide covers all aspects of payment processing and management.
+FouzderIT Business Suite provides multiple ways to receive and record payments from customers. This guide covers all aspects of payment processing and management.
 
 ## Recording Payments
 
@@ -30,7 +30,7 @@ CloudOnex Business Suite provides multiple ways to receive and record payments f
 
 ### Available Payment Methods
 
-CloudOnex supports various payment methods:
+FouzderIT supports various payment methods:
 
 1.  **Online Payments**
 

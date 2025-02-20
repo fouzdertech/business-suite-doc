@@ -1,6 +1,6 @@
 # Point of Sale (POS)
 
-CloudOnex Business Suite includes a robust Point of Sale (POS) system designed for quick sales processing and efficient transaction management.
+FouzderIT Business Suite includes a robust Point of Sale (POS) system designed for quick sales processing and efficient transaction management.
 
 ## Overview
 

@@ -29,7 +29,7 @@
   - [Custom Fields](customer-relationship-management/custom-fields.md)
   - [Interaction Tracking](customer-relationship-management/interaction-tracking.md)
 
-  - **Sales**
+- **Sales**
 
   - [Creating an Invoice](sales/creating-an-invoice.md)
   - [Managing Invoices](sales/managing-invoices.md)
@@ -39,17 +39,17 @@
   - [Order Management](sales/Order-Management.md)
   - [Point of Sale (POS)](sales/Point-of-Sale.md)
 
-  - **Purchasing**
+- **Purchasing**
 
   - [Supplier Management](Purchasing/Supplier-Management.md)
   - [Purchase Orders](Purchasing/Purchase-Orders.md)
 
-  - **Products and Services**
+- **Products and Services**
 
   - [Product Management](Product/Product-Management.md)
   - [Service Management](Purchasing/Service-Management.md)
 
-  - **Project Management**
+- **Project Management**
 
   - [Task Management](Task-Management/Task-Management.md)
   - [Milestone Tracking](Task-Management/Milestone-Tracking.md)
@@ -110,3 +110,16 @@
   - [Built-in Customization Options](customization/built-in-options.md)
   - [Managing Features](customization/managing-features.md)
   - [Editing Layouts](customization/editing-layouts.md)
+  - [Setting Up Your Local Currency](customization/setting-up-your-local-currency.md)
+  - [Customizing Invoice Templates](customization/invoice.md)
+  
+- **API Documentation**
+  - [Introduction](api/introduction.md)
+  - [Authentication](api/authentication.md)
+  - [Endpoints](api/endpoints.md)
+  - [Errors](api/errors.md)
+
+- **Plugin Development**
+  - [Plugin Architecture](plugin-development/plugin-architecture.md)
+
+- [Technical Specifications](technical-specifications.md)

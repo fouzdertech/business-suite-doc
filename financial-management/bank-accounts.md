@@ -2,7 +2,7 @@
 
 ### Overview
 
-The bank accounts module in CloudOnex Business Suite helps you track and manage all your business bank accounts, cash accounts, and financial transactions. This guide covers everything from setting up accounts to reconciliation and reporting.
+The bank accounts module in FouzderIT Business Suite helps you track and manage all your business bank accounts, cash accounts, and financial transactions. This guide covers everything from setting up accounts to reconciliation and reporting.
 
 ### Setting Up Bank Accounts
 
@@ -26,7 +26,7 @@ The bank accounts module in CloudOnex Business Suite helps you track and manage 
 
 #### Understanding Account Types
 
-CloudOnex supports various account types:
+FouzderIT supports various account types:
 
 - Checking Accounts
 - Savings Accounts

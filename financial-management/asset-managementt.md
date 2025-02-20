@@ -2,7 +2,7 @@
 
 ## Overview
 
-CloudOnex Business Suite's Asset Management module helps you track, manage, and monitor all your business assets efficiently. From fixed assets to digital resources, this system provides comprehensive tools for maintaining accurate asset records and managing depreciation.
+FouzderIT Business Suite's Asset Management module helps you track, manage, and monitor all your business assets efficiently. From fixed assets to digital resources, this system provides comprehensive tools for maintaining accurate asset records and managing depreciation.
 
 ## Adding Assets
 

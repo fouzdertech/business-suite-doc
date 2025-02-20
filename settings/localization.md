@@ -2,13 +2,13 @@
 
 ## Overview
 
-CloudOnex Business Suite can be configured for different languages, date formats, time zones, and regional preferences. This guide covers all localization settings to help you adapt the system to your local requirements.
+FouzderIT Business Suite can be configured for different languages, date formats, time zones, and regional preferences. This guide covers all localization settings to help you adapt the system to your local requirements.
 
 ## Language Configuration
 
 ### Available Languages
 
-CloudOnex supports numerous languages including:
+FouzderIT supports numerous languages including:
 
 | Language      | ISO Code | Region         |
 | ------------- | -------- | -------------- |

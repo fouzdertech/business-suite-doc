@@ -1,20 +1,20 @@
-# Installation Guide for CloudOnex Business Suite
+# Installation Guide for FouzderIT Business Suite
 
-Follow these steps to install the CloudOnex Business Suite on your hosting server. This guide assumes you have access to your hosting control panel and basic familiarity with managing files and databases.
+Follow these steps to install the FouzderIT Business Suite on your hosting server. This guide assumes you have access to your hosting control panel and basic familiarity with managing files and databases.
 
 #### Step-by-Step Installation Instructions
 
 1. **Download the Business Suite**
    
-   - Login to the [CloudOnex client portal](https://cp.cloudonex.com/).
-   - Locate and download the latest version of the CloudOnex Business Suite ZIP file.
+   - Login to the [FouzderIT client portal](https://hr.fouzderit.com).
+   - Locate and download the latest version of the FouzderIT Business Suite ZIP file.
 
 2. **Access Hosting Control Panel**
    
    - Login to your hosting control panel and open the **File Manager**.
-   - Navigate to the document root of the domain or sub-domain where you want to install CloudOnex Business Suite. This is typically the `public_html` folder for the primary domain.
+   - Navigate to the document root of the domain or sub-domain where you want to install FouzderIT Business Suite. This is typically the `public_html` folder for the primary domain.
 
-3. **Upload the CloudOnex ZIP File**
+3. **Upload the FouzderIT ZIP File**
    
    - In the **File Manager**, upload the ZIP file you downloaded in Step 1.
    - Once the upload is complete, close the upload window.
@@ -42,4 +42,4 @@ Follow these steps to install the CloudOnex Business Suite on your hosting serve
 8. **Complete Installation**
    
    - After entering the admin user information, click **Finish** to complete the installation.
-   - Your CloudOnex Business Suite installation is now complete, and you can begin configuring and using the platform.
+   - Your FouzderIT Business Suite installation is now complete, and you can begin configuring and using the platform.

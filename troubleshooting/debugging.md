@@ -1,6 +1,6 @@
 # Debug Mode
 
-Debug Mode is a powerful troubleshooting tool in CloudOnex Business Suite that helps identify and resolve issues by providing detailed error information. This guide explains how to use Debug Mode effectively and safely.
+Debug Mode is a powerful troubleshooting tool in FouzderIT Business Suite that helps identify and resolve issues by providing detailed error information. This guide explains how to use Debug Mode effectively and safely.
 
 ## Enabling Debug Mode
 
@@ -113,7 +113,7 @@ If you cannot resolve an issue using Debug Mode:
 
 1.  **Support Resources**
     
-    -   Check CloudOnex documentation
+    -   Check FouzderIT documentation
 2.  **Contacting Support**
     
     -   Provide Debug Mode screenshot

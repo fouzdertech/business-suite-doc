@@ -1,12 +1,12 @@
-# Managing Companies in CloudOnex Business Suite
+# Managing Companies in FouzderIT Business Suite
 
 ## Overview
 
-The Companies feature in CloudOnex Business Suite allows you to organize and manage business entities that your customers are associated with. This helps you maintain a structured database of corporate clients and their associated contacts.
+The Companies feature in FouzderIT Business Suite allows you to organize and manage business entities that your customers are associated with. This helps you maintain a structured database of corporate clients and their associated contacts.
 
 ## Accessing Companies
 
-1.  Log in to your CloudOnex Business Suite dashboard
+1.  Log in to your FouzderIT Business Suite dashboard
 2.  Navigate to **Customers → Companies**
 
 ## Adding a New Company

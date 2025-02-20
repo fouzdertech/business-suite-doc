@@ -1,6 +1,6 @@
 # Recurring Invoices
 
-Recurring invoices in CloudOnex Business Suite allow you to automatically generate and send invoices at specified intervals. This feature is ideal for subscription-based services, retainers, or any regular billing needs.
+Recurring invoices in FouzderIT Business Suite allow you to automatically generate and send invoices at specified intervals. This feature is ideal for subscription-based services, retainers, or any regular billing needs.
 
 ## Understanding Recurring Invoices
 

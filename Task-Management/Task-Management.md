@@ -6,7 +6,7 @@ Task Management in Projects helps you organize, track, and manage tasks efficien
 
 ### Accessing Tasks
 
-1.  Login to your CloudOnex Business Suite
+1.  Login to your FouzderIT Business Suite
 2.  Navigate to the **Tasks** section from the main menu
 
 ### Creating a New Task

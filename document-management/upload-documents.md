@@ -1,6 +1,6 @@
 # Uploading Documents
 
-CloudOnex Business Suite provides robust document storage capabilities that allow you to securely store, organize, and share business documents with your team and customers.
+FouzderIT Business Suite provides robust document storage capabilities that allow you to securely store, organize, and share business documents with your team and customers.
 
 ### How to Upload Documents
 

@@ -1,6 +1,6 @@
 # Understanding File Upload Limits
 
-File uploads in CloudOnex Business Suite are subject to several PHP configuration limits that may need to be adjusted depending on your needs:
+File uploads in FouzderIT Business Suite are subject to several PHP configuration limits that may need to be adjusted depending on your needs:
 
 -   `upload_max_filesize`: Maximum size of individual uploaded files
 -   `post_max_size`: Maximum size of POST data (should be larger than upload\_max\_filesize)

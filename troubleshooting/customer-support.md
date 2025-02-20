@@ -1,6 +1,6 @@
 # Contacting Customer Support
 
-This guide will help you effectively reach out to CloudOnex support when you need assistance with Business Suite.
+This guide will help you effectively reach out to FouzderIT support when you need assistance with Business Suite.
 
 ## Before Contacting Support
 

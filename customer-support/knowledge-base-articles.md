@@ -1,6 +1,6 @@
 # Knowledge Base Articles
 
-The Knowledge Base in CloudOnex Business Suite helps you create, organize, and share helpful articles with your customers and team members. This guide explains how to effectively manage your knowledge base articles.
+The Knowledge Base in FouzderIT Business Suite helps you create, organize, and share helpful articles with your customers and team members. This guide explains how to effectively manage your knowledge base articles.
 
 ## Creating Knowledge Base Articles
 

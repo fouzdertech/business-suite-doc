@@ -1,6 +1,6 @@
 # Supplier Management
 
-CloudOnex Business Suite provides comprehensive tools for managing your suppliers and vendor relationships. This guide explains how to effectively manage your supplier database, track interactions, and maintain vendor information.
+FouzderIT Business Suite provides comprehensive tools for managing your suppliers and vendor relationships. This guide explains how to effectively manage your supplier database, track interactions, and maintain vendor information.
 
 ## Adding Suppliers
 

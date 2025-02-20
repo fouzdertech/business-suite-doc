@@ -2,7 +2,7 @@
 
 ## Overview
 
-Regular backups are crucial for protecting your business data and ensuring business continuity. This guide outlines best practices for backing up your CloudOnex Business Suite installation.
+Regular backups are crucial for protecting your business data and ensuring business continuity. This guide outlines best practices for backing up your FouzderIT Business Suite installation.
 
 ## Types of Backups Required
 
@@ -60,7 +60,7 @@ Includes:
 
 1.  Access your hosting control panel
 2.  Navigate to File Manager
-3.  Select the CloudOnex installation directory
+3.  Select the FouzderIT installation directory
 4.  Click "Compress" or "Create Archive"
 5.  Download the compressed file
 
@@ -83,7 +83,7 @@ Includes:
     mysqldump -u [username] -p[password] [database_name] > $BACKUP_DIR/db_backup_$DATE.sql
     
     # File backup
-    tar -czf $BACKUP_DIR/files_backup_$DATE.tar.gz /path/to/cloudonex/installation
+    tar -czf $BACKUP_DIR/files_backup_$DATE.tar.gz /path/to/FouzderIT/installation
     
     # Remove backups older than 30 days
     find $BACKUP_DIR -type f -mtime +30 -delete
@@ -149,5 +149,5 @@ Includes:
     tar -xzf backup_file.tar.gz -C /path/to/destination
     
     # Set proper permissions
-    chown -R www-data:www-data /path/to/cloudonex
-    chmod -R 755 /path/to/cloudonex
+    chown -R www-data:www-data /path/to/FouzderIT
+    chmod -R 755 /path/to/FouzderIT

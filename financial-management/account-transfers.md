@@ -2,7 +2,7 @@
 
 ## Overview
 
-Account transfers in CloudOnex Business Suite allow you to move funds between your different bank and cash accounts. This feature is essential for accurately tracking internal money movements without recording them as income or expenses.
+Account transfers in FouzderIT Business Suite allow you to move funds between your different bank and cash accounts. This feature is essential for accurately tracking internal money movements without recording them as income or expenses.
 
 ## Making a Transfer
 

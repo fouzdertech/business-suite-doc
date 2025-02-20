@@ -1,4 +1,4 @@
-# Employee Management in CloudOnex Business Suite
+# Employee Management in FouzderIT Business Suite
 
 The Employee Management module helps you efficiently manage your workforce by providing tools for employee data management, attendance tracking, and HR administration.
 

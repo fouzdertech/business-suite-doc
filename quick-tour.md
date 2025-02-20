@@ -8,7 +8,7 @@ The **Dashboard** is your control center, providing a high-level overview of you
 
 # Key Modules and Their Functions
 
-Each module in CloudOnex serves a specific purpose in managing your business operations. Below is an overview of each module and its main functions.
+Each module in FouzderIT serves a specific purpose in managing your business operations. Below is an overview of each module and its main functions.
 
 ### 1. Sales Module
 

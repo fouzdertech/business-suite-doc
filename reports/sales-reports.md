@@ -1,4 +1,4 @@
-# Sales Reports in CloudOnex Business Suite
+# Sales Reports in FouzderIT Business Suite
 
 The Sales Reports module provides detailed insights into your business's sales performance, customer behavior, and revenue trends through comprehensive reporting tools.
 

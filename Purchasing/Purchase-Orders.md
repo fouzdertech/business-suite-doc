@@ -1,6 +1,6 @@
 # Purchase Orders
 
-CloudOnex Business Suite provides comprehensive tools for creating, managing, and tracking purchase orders (POs). This guide covers all aspects of the purchase order process from creation to fulfillment.
+FouzderIT Business Suite provides comprehensive tools for creating, managing, and tracking purchase orders (POs). This guide covers all aspects of the purchase order process from creation to fulfillment.
 
 ## Creating Purchase Orders
 

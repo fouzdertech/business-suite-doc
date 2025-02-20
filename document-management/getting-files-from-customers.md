@@ -1,6 +1,6 @@
 # Getting Files from Customers
 
-CloudOnex Business Suite provides several methods for receiving files and documents from your customers securely through the customer portal.
+FouzderIT Business Suite provides several methods for receiving files and documents from your customers securely through the customer portal.
 
 ## Customer File Upload Methods
 

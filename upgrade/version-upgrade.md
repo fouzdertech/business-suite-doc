@@ -1,4 +1,4 @@
-# CloudOnex Business Suite - Version Upgrade Guide
+# FouzderIT Business Suite - Version Upgrade Guide
 
 ## Before You Begin
 
@@ -28,7 +28,7 @@ This is the simplest and safest method for most users.
 
 1.  **Download the Updater Plugin**
     
-    -   Get the free updater plugin from [CloudOnex website](https://fromcdn.sfo3.digitaloceanspaces.com/sp/cloudonex/media/updater.zip)
+    -   Get the free updater plugin from [FouzderIT website](https://fromcdn.sfo3.digitaloceanspaces.com/sp/FouzderIT/media/updater.zip)
 2.  **Install the Plugin**
     
     -   Upload and install the updater plugin through your Business Suite dashboard
@@ -45,7 +45,7 @@ For developers or users who need more control over the update process.
 
 1.  **Prepare for Update**
     
-    -   Download the latest version from your CloudOnex dashboard
+    -   Download the latest version from your FouzderIT dashboard
     -   Create a complete backup of your current installation
     -   Export your database
 2.  **Update Files**

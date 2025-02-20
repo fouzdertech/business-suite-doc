@@ -1,6 +1,6 @@
 # Quote Management
 
-CloudOnex Business Suite provides robust tools for creating, managing, and tracking sales quotes (also known as estimates). This guide covers all aspects of quote management to help you streamline your sales process.
+FouzderIT Business Suite provides robust tools for creating, managing, and tracking sales quotes (also known as estimates). This guide covers all aspects of quote management to help you streamline your sales process.
 
 ## Understanding Quotes
 

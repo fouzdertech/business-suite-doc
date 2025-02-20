@@ -1,6 +1,6 @@
 # Order Management
 
-CloudOnex Business Suite provides comprehensive tools for managing customer orders throughout their lifecycle. This guide covers all aspects of order processing, tracking, and fulfillment.
+FouzderIT Business Suite provides comprehensive tools for managing customer orders throughout their lifecycle. This guide covers all aspects of order processing, tracking, and fulfillment.
 
 ## Understanding Orders
 

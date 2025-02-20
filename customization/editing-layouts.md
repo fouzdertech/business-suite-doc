@@ -1,6 +1,6 @@
 # Editing Layouts
 
-CloudOnex Business Suite allows you to customize the layout and structure of both admin and client portals by modifying template files. This guide explains how to safely and effectively edit system layouts to match your business needs.
+FouzderIT Business Suite allows you to customize the layout and structure of both admin and client portals by modifying template files. This guide explains how to safely and effectively edit system layouts to match your business needs.
 
 ## Understanding Layout Structure
 

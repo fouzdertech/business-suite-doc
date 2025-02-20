@@ -2,7 +2,7 @@
 
 ## Overview
 
-CloudOnex Business Suite provides flexible tax configuration options to handle various tax systems and requirements across different jurisdictions. This guide explains how to configure and manage tax settings for your business needs.
+FouzderIT Business Suite provides flexible tax configuration options to handle various tax systems and requirements across different jurisdictions. This guide explains how to configure and manage tax settings for your business needs.
 
 ## Basic Tax Configuration
 

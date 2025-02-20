@@ -2,7 +2,7 @@
 
 ## Overview
 
-Customer Groups in CloudOnex Business Suite help you organize your customers into meaningful categories. This feature enables better customer segmentation, targeted communication, and simplified customer management.
+Customer Groups in FouzderIT Business Suite help you organize your customers into meaningful categories. This feature enables better customer segmentation, targeted communication, and simplified customer management.
 
 ## Benefits of Using Customer Groups
 
@@ -14,7 +14,7 @@ Customer Groups in CloudOnex Business Suite help you organize your customers int
 
 ## Accessing Customer Groups
 
-1.  Log in to your CloudOnex Business Suite dashboard
+1.  Log in to your FouzderIT Business Suite dashboard
 2.  Navigate to **Customers → Groups**
 
 ## Creating Customer Groups

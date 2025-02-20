@@ -2,7 +2,7 @@
 
 ## Overview
 
-CloudOnex Business Suite provides a comprehensive invoicing system that helps you create professional invoices efficiently. This guide will walk you through the process of creating and managing invoices for your customers.
+FouzderIT Business Suite provides a comprehensive invoicing system that helps you create professional invoices efficiently. This guide will walk you through the process of creating and managing invoices for your customers.
 
 ## Creating a New Invoice
 
@@ -17,7 +17,7 @@ CloudOnex Business Suite provides a comprehensive invoicing system that helps yo
     - Apply taxes (if applicable)
     - Add terms and notes
 
-![Invoice](https://cp.cloudonex.com/assets/cloudonex/docs/new-invoice.png)
+![Invoice](https://hr.fouzderit.comassets/FouzderIT/docs/new-invoice.png)
 
 ### Invoice Details Configuration
 

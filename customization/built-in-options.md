@@ -1,6 +1,6 @@
 # Built-in Customization Options
 
-CloudOnex Business Suite offers extensive customization options to tailor the system to your business needs. This guide covers the built-in customization features available through the administrative interface.
+FouzderIT Business Suite offers extensive customization options to tailor the system to your business needs. This guide covers the built-in customization features available through the administrative interface.
 
 ## Visual Customization
 

@@ -1,4 +1,4 @@
-# Financial Reports in CloudOnex Business Suite
+# Financial Reports in FouzderIT Business Suite
 
 The Financial Reports module provides comprehensive insights into your business's financial health through detailed reports and analytics.
 

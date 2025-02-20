@@ -2,7 +2,7 @@
 
 ## Overview
 
-CloudOnex Business Suite's Knowledge Base module helps you create, organize, and share helpful information with your customers and staff. This self-service platform reduces support inquiries while providing instant access to important information.
+FouzderIT Business Suite's Knowledge Base module helps you create, organize, and share helpful information with your customers and staff. This self-service platform reduces support inquiries while providing instant access to important information.
 
 ## Creating Articles
 

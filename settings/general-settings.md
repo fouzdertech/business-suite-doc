@@ -1,6 +1,6 @@
 # General Settings Configuration Guide
 
-The General Settings page in CloudOnex Business Suite allows you to configure core system settings and customize the application according to your business needs. This guide covers all available options and their purposes.
+The General Settings page in FouzderIT Business Suite allows you to configure core system settings and customize the application according to your business needs. This guide covers all available options and their purposes.
 
 ## Basic Settings
 

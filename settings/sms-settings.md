@@ -2,7 +2,7 @@
 
 ## Overview
 
-CloudOnex Business Suite provides SMS functionality for sending notifications, alerts, and communications to customers. This guide covers SMS configuration, available drivers, and troubleshooting steps.
+FouzderIT Business Suite provides SMS functionality for sending notifications, alerts, and communications to customers. This guide covers SMS configuration, available drivers, and troubleshooting steps.
 
 ## SMS Drivers Configuration
 

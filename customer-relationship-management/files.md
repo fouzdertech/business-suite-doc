@@ -2,7 +2,7 @@
 
 Managing Customer Files
 
-CloudOnex Business Suite allows you to manage and store files associated with your customers. This feature helps you maintain important customer documents, attachments, and other files in an organized manner.
+FouzderIT Business Suite allows you to manage and store files associated with your customers. This feature helps you maintain important customer documents, attachments, and other files in an organized manner.
 
 ## Overview
 

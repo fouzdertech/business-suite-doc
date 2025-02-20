@@ -1,6 +1,6 @@
 # Custom Fields for Customer Management
 
-Custom fields allow you to extend CloudOnex Business Suite's customer information capabilities by adding additional fields to store custom data about your customers. This feature enables you to tailor the CRM to your specific business needs.
+Custom fields allow you to extend FouzderIT Business Suite's customer information capabilities by adding additional fields to store custom data about your customers. This feature enables you to tailor the CRM to your specific business needs.
 
 ## Overview
 
@@ -30,7 +30,7 @@ Custom fields help you:
 
 ### Available Field Types
 
-CloudOnex Business Suite supports various field types for custom fields:
+FouzderIT Business Suite supports various field types for custom fields:
 
 - **Text**: Single line text input
 - **Textarea**: Multi-line text input

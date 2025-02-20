@@ -2,7 +2,7 @@
 
 ## Overview
 
-CloudOnex Business Suite's Ticket Management system provides a robust platform for handling customer support requests efficiently. This module helps you track, respond to, and resolve customer inquiries while maintaining organized communication records.
+FouzderIT Business Suite's Ticket Management system provides a robust platform for handling customer support requests efficiently. This module helps you track, respond to, and resolve customer inquiries while maintaining organized communication records.
 
 ## Creating Support Tickets
 

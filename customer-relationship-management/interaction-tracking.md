@@ -1,6 +1,6 @@
 # Customer Interaction Tracking
 
-Tracking customer interactions is essential for maintaining strong customer relationships and providing quality service. CloudOnex Business Suite provides comprehensive tools to record, track, and analyze all customer interactions.
+Tracking customer interactions is essential for maintaining strong customer relationships and providing quality service. FouzderIT Business Suite provides comprehensive tools to record, track, and analyze all customer interactions.
 
 ## Understanding Interaction Tracking
 

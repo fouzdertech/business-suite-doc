@@ -1,6 +1,6 @@
 # Document Management
 
-CloudOnex Business Suite provides robust document management capabilities to help you store, organize, and share business documents securely. This guide explains how to effectively manage your documents within the system.
+FouzderIT Business Suite provides robust document management capabilities to help you store, organize, and share business documents securely. This guide explains how to effectively manage your documents within the system.
 
 ## Getting Started with Documents
 

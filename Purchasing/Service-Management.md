@@ -1,6 +1,6 @@
 # Service Management
 
-This guide explains how to manage services in CloudOnex Business Suite. Unlike physical products, services don't have inventory quantities and are handled differently in the system.
+This guide explains how to manage services in FouzderIT Business Suite. Unlike physical products, services don't have inventory quantities and are handled differently in the system.
 
 ## Adding a New Service
 
@@ -16,7 +16,7 @@ To add a new service to your business suite:
 
 ## Key Differences Between Products and Services
 
-When working with services in CloudOnex Business Suite:
+When working with services in FouzderIT Business Suite:
 
 - Services don't have quantity tracking
 - No inventory management is required

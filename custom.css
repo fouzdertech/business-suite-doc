@@ -37,6 +37,22 @@ body {
     color: #2c3e50;
 }
 
+.sidebar-nav>p>a{
+    font-weight: 600;
+    color: #2c3e50;
+    text-decoration: none;
+}
+
+.sidebar-nav p.active > a {
+    padding: 0.3rem 0.5rem;
+    border-radius: 4px;
+    background-color: rgba(52, 152, 219, 0.15);
+    color: #2980b9;
+    font-weight: 500;
+}
+
+
+
 .sidebar ul li a {
     color: #455a64;
     font-size: 0.95rem;
@@ -59,7 +75,7 @@ body {
 }
 
 .folder{
-    cursor: default;
+    cursor: pointer;
 }
 
 /* === Content Styles === */

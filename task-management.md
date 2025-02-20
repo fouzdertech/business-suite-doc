@@ -1,6 +1,6 @@
 # Task Management
 
-CloudOnex Business Suite provides comprehensive task management features to help you organize, track, and complete business activities efficiently.
+FouzderIT Business Suite provides comprehensive task management features to help you organize, track, and complete business activities efficiently.
 
 ## Overview
 

@@ -6,7 +6,7 @@ To install the business suite, ensure your server environment meets the followin
 
 ### 1. Hosting Requirements
 
-CloudOnex Business Suite is a web-based application designed to run in a server environment. Review the following minimum and recommended server specifications:
+FouzderIT Business Suite is a web-based application designed to run in a server environment. Review the following minimum and recommended server specifications:
 Minimum Server Specifications
 
     PHP Version:

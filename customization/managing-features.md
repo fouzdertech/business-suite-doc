@@ -1,6 +1,6 @@
 # Managing Features
 
-CloudOnex Business Suite allows you to customize your installation by enabling or disabling specific features based on your business needs. This guide explains how to effectively manage system features to create a streamlined experience for your organization.
+FouzderIT Business Suite allows you to customize your installation by enabling or disabling specific features based on your business needs. This guide explains how to effectively manage system features to create a streamlined experience for your organization.
 
 ## Accessing Feature Management
 
